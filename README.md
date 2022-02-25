@@ -12,8 +12,18 @@ $ git clone https://github.com/muktadira22/aplikasi-penilaian-mahasiswa.git
 ```
 
 ### Install Dependencies
+1. For React
 ```bash
 $ cd aplikasi-penilaian-mahasiswa
+$ yarn (if using yarn)
+$ npm install (if using npm)
+
+```
+
+2. For Server
+```bash
+$ cd aplikasi-penilaian-mahasiswa
+$ cd server
 $ yarn (if using yarn)
 $ npm install (if using npm)
 ```
